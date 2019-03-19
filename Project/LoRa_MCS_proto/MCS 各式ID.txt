@@ -1,0 +1,3 @@
+DeviceId: DHl4XW30
+DeviceKey: dmTKTDHAAUGJVQke
+DeviceChannelId: PIR_Display
